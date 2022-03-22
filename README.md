@@ -8,6 +8,7 @@ Merhaba,  Ben [Tolga](https://github.com/tolgaaltinordu)! [Kodluyoruz](https://w
 
 ### HTML - Odev - 2
 Liste Kullanımı, görsel ve link Eklenmesi: [:link: ödev linki](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/blob/main/HTML-Dersleri/Odev2/index.html)
-
+### HTML - Odev - 3
+CSS'e giriş çalışması [:link: ödev linki](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/tree/main/HTML-Dersleri/odev%203)
 ### HTML - Bolum Sonu Calismasi
 Semantic HTML etiketleri kullanımı[:link: ödev linki](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/tree/main/HTML-Dersleri/Bolum%20Sonu%20Calismasi)
