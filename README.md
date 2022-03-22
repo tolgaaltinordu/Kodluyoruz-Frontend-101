@@ -3,4 +3,6 @@ Merhaba,  Ben [Tolga](https://github.com/tolgaaltinordu)! [Kodluyoruz](https://w
 
 ## HTML
 ### HTML - Odev  - 1
-İlk Web Sayfamızı Oluşturmak: [:link:](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/blob/main/HTML-Dersleri/Odev1/index.html)
+İlk Web Sayfamızı Oluşturmak: [:link: ödev linki](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/blob/main/HTML-Dersleri/Odev1/index.html)
+## HTML - Odev - 2
+Liste Kullanımı, görsel ve link Eklenmesi: [:link: ödev linki](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/blob/main/HTML-Dersleri/Odev2/index.html)
