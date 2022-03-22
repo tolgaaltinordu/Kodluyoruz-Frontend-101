@@ -10,3 +10,4 @@ Merhaba,  Ben [Tolga](https://github.com/tolgaaltinordu)! [Kodluyoruz](https://w
 Liste Kullanımı, görsel ve link Eklenmesi: [:link: ödev linki](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/blob/main/HTML-Dersleri/Odev2/index.html)
 
 ### HTML - Bolum Sonu Calismasi
+Semantic HTML etiketleri kullanımı[:link: ödev linki](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/tree/main/HTML-Dersleri/Bolum%20Sonu%20Calismasi)
