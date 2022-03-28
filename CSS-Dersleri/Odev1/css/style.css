@@ -1,0 +1,78 @@
+/* Fonts */
+p,
+li{
+    font-family: poppins;
+}
+h1{
+    font-family: Mulish;
+}
+h2,
+h3{
+    font-family: Mulish;
+}
+/* Fonts */
+body{
+    background-color:#f8a764;
+    text-align: center;
+}
+h1{
+    background-color: rgb(160, 68, 32);
+    border-radius: 30px;
+    border-top-left-radius: 0 ;
+    border-bottom-right-radius: 0 ;
+    padding: 20px;
+    color: #faf0ff;
+    text-shadow: 0px 0px 10px  black;
+}
+h3,
+h2{
+    color:rgb(95, 36, 1);
+}
+hr{
+    border: none;
+    border-top: 5px double rgb(92, 92, 92);
+    overflow: visible;
+}
+hr::after{
+    content:"&";
+    position: relative;
+    bottom: 12px;
+    background-color: #f8a764;
+    color: rgb(92, 92, 92);
+    padding: 5px;
+}
+nav ul{
+    padding-left: 0;
+}
+nav li{
+    display: inline;
+    padding: 5px;
+    list-style: none;
+}
+/* HomePageMain - Style - Start */
+.home-page-main li{
+    list-style-position: inside;
+    width: max-content;
+    margin: auto;
+}
+/* HomePageMain - Style - End */
+/* AboutUsPageMain - Style - Start */
+.about-us-main section{
+    text-align: left;
+}
+/* AboutUsPageMain - Style - End */
+/* ProductPageMain - Style - Start */
+.products-page-main ol{
+    margin-top: 3%;
+}
+.products-page-main li{
+    list-style-position: inside;
+    width: fit-content;
+    margin: 0 39%;
+    margin-bottom: 35px;
+}
+img{
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 0px rgba(247, 81, 16, 0.6);
+}
+/* ProductPageMain - Style - End */
