@@ -12,3 +12,6 @@ Liste Kullanımı, görsel ve link Eklenmesi: [:link: ödev linki](https://githu
 CSS'e giriş çalışması [:link: ödev linki](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/blob/main/HTML-Dersleri/odev%203/index.html)
 ### HTML - Bolum Sonu Calismasi
 Semantic HTML etiketleri kullanımı[:link: ödev linki](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/tree/main/HTML-Dersleri/Bolum%20Sonu%20Calismasi)
+## CSS
+### CSS - Odev - 1
+CSS'in Kullanımı:[:link: ödev linki](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/tree/main/CSS-Dersleri/Odev1)
