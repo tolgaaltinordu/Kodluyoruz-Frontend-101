@@ -8,5 +8,6 @@
 #img
 *.svg
 img/
+images/
 #json
 launch.json

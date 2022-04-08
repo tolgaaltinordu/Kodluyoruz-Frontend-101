@@ -1,0 +1,323 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #202124;
+    /* height: 937px; */
+    max-height: 100%;
+}
+
+/* header  */
+
+.top-bar {
+    position: relative;
+    text-align: end;
+}
+
+.tr-list {
+
+    font-size: 13px;
+    position: relative;
+    bottom: 10px;
+}
+
+.tr-list li {
+    cursor: pointer;
+    display: inline;
+    margin-right: 15px;
+}
+
+.tr-list .material-icons {
+    position: relative;
+    top: 8px;
+    border-radius: 50%;
+}
+
+.tr-list-3 i {
+    padding: 7px;
+    left: 10px;
+}
+
+.profile-img {
+    border: 5px solid #202124;
+    position: relative;
+    top: 15px;
+    border-radius: 50%;
+}
+
+/* header - end */
+
+/* content */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* height: 706px; */
+    min-height: 75vh;
+}
+
+.search-container {
+    position: relative;
+}
+
+.search-container #search-icon {
+    position: absolute;
+    left: 15px;
+    top: 43px;
+    font-size: 20px;
+    color: #999da2;
+}
+
+.search-container #keyboard-icon {
+    position: absolute;
+    right: 50px;
+    top: 46px;
+    font-size: 20px;
+    color: grey;
+    cursor: pointer;
+}
+
+#search-tab {
+    padding-left: 50px;
+    border-radius: 50px;
+    border: 1px solid #585858;
+    width: 532px;
+    height: 44px;
+    margin-top: 30px;
+    background-color: #202124;
+    font-size: 17px;
+    transition: all .3s ease;
+}
+
+.buttons {
+    margin: 30px auto 0px;
+}
+
+.buttons input {
+    background-color: #303134;
+    border: 1px solid #303134;
+    border-radius: 4px;
+    line-height: 27px;
+    padding: 0px 16px;
+    font-size: 14px;
+    height: 36px;
+}
+
+.submit-btn {
+    margin-right: 8px;
+}
+
+.container p {
+    margin-top: 40px;
+    font-size: 13px;
+    color: #bdc1c6;
+}
+
+.container p a {
+    text-decoration: none;
+    color: #4793F8;
+}
+
+#close-btn {
+    position: absolute;
+    color: #999da2;
+    top: 40px;
+    right: 90px;
+    display: none;
+}
+
+.flat-shape {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 38px;
+    right: 82px;
+    border-right: 1px solid #585858;
+    display: none;
+}
+
+svg {
+    cursor: pointer;
+    position: absolute;
+    top: 40px;
+    right: 12px;
+}
+
+/* content end  */
+
+/* footer */
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    position: fixed;
+    width: 99.9%;
+    bottom: 0;
+    background-color: #171717;
+
+}
+
+footer p {
+    color: #999da2;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+footer p img {
+    margin-right: 8px;
+    position: relative;
+    top: 2px;
+}
+
+footer ul {
+    padding: 15px;
+}
+
+footer ul li {
+    cursor: pointer;
+    display: inline;
+    margin: 15px;
+    color: #999da2;
+    font-size: 14px;
+}
+
+/* footer end */
+
+/* after before selector */
+
+.tr-list-3::before {
+    content: "Google Uygulamaları";
+    position: absolute;
+    top: 56px;
+    right: 10px;
+    background-color: #303134;
+    border-radius: 4px;
+    line-height: 24px;
+    padding: 0 10px;
+    opacity: 0;
+    pointer-events: none;
+    transition: all .5s step-end;
+}
+
+.tr-list-4::after {
+    content: "Google hesabı \A Tolga Altınordu \a tolgaaltinordu@gmail.com";
+    white-space: pre-wrap;
+    position: absolute;
+    right: 10px;
+    top: 56px;
+    line-height: 24px;
+    padding: 0px 10px;
+    text-align: left;
+    background-color: #303134;
+    border-radius: 4px;
+    opacity: 0;
+    pointer-events: none;
+    transition: all .5s step-end;
+}
+
+.shape {
+    position: absolute;
+    top: 78px;
+    right: 12px;
+    background-color: #202124;
+    font-size: 11px;
+    line-height: 24px;
+    padding: 0 5px;
+    border: 1px solid white;
+    visibility: hidden;
+    text-align: center;
+
+}
+
+.shape:after {
+    content: "";
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    bottom: 17px;
+    right: 40px;
+    border: 1px solid white;
+    transform: rotate(45deg);
+    background-color: #202124;
+    z-index: 1;
+    border-bottom: none;
+    border-right: none;
+    visibility: inherit;
+}
+
+/* after before selectors - end  */
+
+/* Hover selectors*/
+
+.tr-list-3:hover::before {
+    opacity: 1;
+}
+
+.tr-list-4:hover::after {
+    opacity: 1;
+}
+
+.profile-img:hover {
+    border: 5px solid #303134;
+}
+
+.tr-list-3 i:hover {
+    background-color: #303134;
+}
+
+
+ul li:hover {
+    text-decoration: underline;
+}
+
+#search-tab:hover {
+    border: 1px solid #303134;
+    background-color: #303134;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .2);
+}
+
+input[class$=btn]:hover {
+    border-color: #999da2;
+}
+
+p>a:hover {
+    text-decoration: underline;
+}
+
+.search-container #keyboard-icon:hover~.shape {
+    visibility: visible;
+}
+
+/* Hover selectors -end*/
+
+/* focus selectors */
+
+#search-tab:focus {
+    background-color: #303134;
+    outline: none;
+    border: 1px solid #303134;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .2);
+}
+
+#search-tab:focus~#close-btn {
+    display: block;
+}
+
+#search-tab:focus~.flat-shape {
+    display: block;
+}
+
+/* focus selectors - end */
+
+@media screen and (max-width:600px) {
+    #search-tab {
+        width: 50vw;
+    }
+}
