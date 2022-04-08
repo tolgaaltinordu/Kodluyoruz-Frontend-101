@@ -15,3 +15,6 @@ Semantic HTML etiketleri kullanımı[:link: ödev linki](https://github.com/tolg
 ## CSS
 ### CSS - Odev - 1
 CSS'in Kullanımı:[:link: ödev linki](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/tree/main/CSS-Dersleri/Odev1)
+### CSS - Odev - 2
+Google 1998 [:link: ödev linki](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/tree/main/CSS-Dersleri/Odev2)
+![Google 1998](CSS-Dersleri/img/google%201998.png)
