@@ -27,4 +27,8 @@ Bootstrap ile ilk web sayfası tasarımı: [:link: ödev linki](https://github.c
 ![Müzik Dükkanım](Bootstrap-Dersleri/Odev1/M%C3%BCzik%20D%C3%BCkkan%C4%B1m.gif)
 ## JavaScript
 ### JavaScript - Odev - 1
-Javascript ile saat yapımı : [:link: ödev linki](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/tree/main/JavaScript%20-%20Dersleri/Odev1)
+JavaScript ile saat yapımı : [:link: ödev linki](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/tree/main/JavaScript%20-%20Dersleri/Odev1)
+### JavaScript - Odev - 2
+JavaScript ile todolist yapımı(Düzeltilecek):[:link: ödev linki](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/tree/main/JavaScript%20-%20Dersleri/Odev2)
+### JavaScript - Odev - 3
+JavaScript ile Yemek Menüsü Çalışması:[:link: ödev linki](https://github.com/tolgaaltinordu/Kodluyoruz-Frontend-101/tree/main/JavaScript%20-%20Dersleri/Odev3)
